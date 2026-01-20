@@ -101,11 +101,3 @@ Contributions are welcome. However, contributors should note:
 
 **For questions about usage**: Please use GitHub Issues or Discussions  
 **For regulatory or compliance questions**: Consult your qualified actuary or regulatory advisor
-
-## Additional Legal Protection
-
-For maximum legal protection, users should also review:
-
-- The full Apache 2.0 license terms in the LICENSE file
-- Any additional disclaimer files in this repository
-- Applicable professional standards and regulatory requirements
